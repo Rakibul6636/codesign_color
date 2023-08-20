@@ -5,4 +5,5 @@
 4. Run migrations: `php artisan migrate`
 6. Install Node.js dependencies: `npm install`
 7. Compile assets: `npm run dev`
+8. now run the project: `php artisan serve`
    
